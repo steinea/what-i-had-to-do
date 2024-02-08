@@ -15,6 +15,6 @@ AUTHOR. "." *PUBLICATION*, MONTH DD, YYYY. <>.
 
 <br>
 
-## Title
+# Title
 
 #### Subtitle
