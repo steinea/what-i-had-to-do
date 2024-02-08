@@ -4,6 +4,7 @@ author: Bryant Francis
 publication: Game Developer
 date: 2024-01-17
 link: https://www.gamedeveloper.com/console/why-the-last-of-us-part-ii-remastered-s-no-return-mode-won-t-get-any-dlc
+permalink: 2024/01/17/bryant-francis-game-developer
 ---
 
 [[2024]] / [[articles]]

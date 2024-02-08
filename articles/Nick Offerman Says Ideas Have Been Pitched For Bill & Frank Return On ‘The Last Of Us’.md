@@ -4,6 +4,7 @@ author: Rosy Cordero
 publication: Deadline
 date: 2024-01-06
 link: https://deadline.com/2024/01/nick-offerman-the-last-of-us-creative-arts-emmys-1235697069/
+permalink: 2024/01/06/rosy-cordero-deadline
 ---
 
 [[2024]] / [[articles]]

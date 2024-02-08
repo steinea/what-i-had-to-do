@@ -4,6 +4,7 @@ author: Luke Plunkett
 publication: Aftermath
 date: 2023-12-14
 link: https://aftermath.site/last-of-us-online-cancelled-multiplayer-standalone
+permalink: 2023/12/14/luke-plunkett-aftermath
 ---
 
 [[2023]] / [[articles]]
@@ -14,7 +15,7 @@ link: https://aftermath.site/last-of-us-online-cancelled-multiplayer-standalone
 
 <br>
 
-## Naughty Dog Cancels The Last Of Us Online, Something That Should Never Have Been In Development In The First Place
+# Naughty Dog Cancels The Last Of Us Online, Something That Should Never Have Been In Development In The First Place
 
 #### Not everything has to be a live service game!
 
