@@ -11,7 +11,7 @@ permalink: 2023/12/14/luke-plunkett-aftermath
 
 # Citation
 
-[[Luke Plunkett]]. "Naughty Dog Cancels The Last Of Us Online, Something That Should Never Have Been In Development In The First Place." *[[Aftermath]]*, December 14, 2023. <https://aftermath.site/last-of-us-online-cancelled-multiplayer-standalone>.
+[[Plunkett, Luke]]. "Naughty Dog Cancels The Last Of Us Online, Something That Should Never Have Been In Development In The First Place." *[[Aftermath]]*, December 14, 2023. <https://aftermath.site/last-of-us-online-cancelled-multiplayer-standalone>.
 
 <br>
 

@@ -11,7 +11,7 @@ permalink: 2024/01/25/adam-b-vary-variety
 
 # Citation
 
-[[Adam B. Vary]]. "‘The Last of Us’ Season 2 Lands Powerhouse Directing Lineup: ‘Succession’ Emmy Winner Mark Mylod, ‘Loki’ Helmer Kate Herron and More." *[[Variety]]*, MONTH DD, YYYY. <https://variety.com/2024/tv/news/last-of-us-season-2-directors-mark-mylod-kate-herron-1235888172/>.
+[[Vary, Adam B.]]. "‘The Last of Us’ Season 2 Lands Powerhouse Directing Lineup: ‘Succession’ Emmy Winner Mark Mylod, ‘Loki’ Helmer Kate Herron and More." *[[Variety]]*, MONTH DD, YYYY. <https://variety.com/2024/tv/news/last-of-us-season-2-directors-mark-mylod-kate-herron-1235888172/>.
 
 <br>
 

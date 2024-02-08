@@ -11,7 +11,7 @@ permalink: 2024/01/16/joshua-rivera-polygon
 
 # Citation
 
-[[Joshua Rivera]]. "The Last of Us Part 2’s roguelike mode is a playable identity crisis." *[[Polygon]]*, January 16, 2024. <https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode>.
+[[Rivera, Joshua]]. "The Last of Us Part 2’s roguelike mode is a playable identity crisis." *[[Polygon]]*, January 16, 2024. <https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode>.
 
 <br>
 

@@ -11,7 +11,7 @@ permalink: 2024/01/17/bryant-francis-game-developer
 
 # Citation
 
-[[Bryant Francis]]. "Why The Last of Us Part II Remastered's roguelike mode won't get any DLC." *[[Game Developer]]*, January 17, 2024. <https://www.gamedeveloper.com/console/why-the-last-of-us-part-ii-remastered-s-no-return-mode-won-t-get-any-dlc>.
+[[Francis, Bryant]]. "Why The Last of Us Part II Remastered's roguelike mode won't get any DLC." *[[Game Developer]]*, January 17, 2024. <https://www.gamedeveloper.com/console/why-the-last-of-us-part-ii-remastered-s-no-return-mode-won-t-get-any-dlc>.
 
 <br>
 

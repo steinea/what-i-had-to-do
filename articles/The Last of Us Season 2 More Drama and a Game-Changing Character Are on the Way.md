@@ -11,7 +11,7 @@ permalink: 2024/01/24/jarrod-jones-primetimer
 
 # Citation
 
-[[Jarrod Jones]]. "_The Last of Us_ Season 2: More Drama and a Game-Changing Character Are on the Way." *[[Primetimer]]*, January 24, 2024. <https://www.primetimer.com/previews/the-last-of-us-season-2-more-drama-and-kaitlyn-dever-bella-ramsey-pedro-pascal>.
+[[Jones, Jarrod]]. "_The Last of Us_ Season 2: More Drama and a Game-Changing Character Are on the Way." *[[Primetimer]]*, January 24, 2024. <https://www.primetimer.com/previews/the-last-of-us-season-2-more-drama-and-kaitlyn-dever-bella-ramsey-pedro-pascal>.
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On ‘The Last Of Us’
+title: Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On The Last Of Us
 author: Rosy Cordero
 publication: Deadline
 date: 2024-01-06
@@ -11,7 +11,7 @@ permalink: 2024/01/06/rosy-cordero-deadline
 
 # Citation
 
-[[Rosy Cordero]]. "Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On ‘The Last Of Us.’" *[[Deadline]]*, January 6, 2024. <https://deadline.com/2024/01/nick-offerman-the-last-of-us-creative-arts-emmys-1235697069/>.
+[[Cordero, Rosy]]. "Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On ‘The Last Of Us.’" *[[Deadline]]*, January 6, 2024. <https://deadline.com/2024/01/nick-offerman-the-last-of-us-creative-arts-emmys-1235697069/>.
 
 <br>
 

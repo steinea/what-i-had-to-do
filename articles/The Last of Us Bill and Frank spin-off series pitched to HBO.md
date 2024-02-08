@@ -11,7 +11,7 @@ permalink: 2024/01/09/victoria-kennedy-eurogamer
 
 # Citation
 
-[[Victoria Kennedy]]. "The Last of Us Bill and Frank spin-off series pitched to HBO." *[[Eurogamer]]*, January 9, 2024. <https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo>.
+[[Kennedy, Victoria]]. "The Last of Us Bill and Frank spin-off series pitched to HBO." *[[Eurogamer]]*, January 9, 2024. <https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo>.
 
 <br>
 

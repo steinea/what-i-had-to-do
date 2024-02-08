@@ -1,5 +1,5 @@
 ---
-title: ‘The Last of Us’ Season 2 Casts Catherine O’Hara
+title: The Last of Us Season 2 Casts Catherine O’Hara
 author: Joe Otterson
 publication: Variety
 date: 2024-02-02
@@ -11,7 +11,7 @@ permalink: 2024/02/02/joe-otterson-variety
 
 # Citation
 
-[[Joe Otterson]]. "‘The Last of Us’ Season 2 Casts Catherine O’Hara." *[[Variety]]*, February 2, 2024. <https://variety.com/2024/tv/news/the-last-of-us-season-2-cast-catherine-ohara-1235895477/>.
+[[Otterson, Joe]]. "‘The Last of Us’ Season 2 Casts Catherine O’Hara." *[[Variety]]*, February 2, 2024. <https://variety.com/2024/tv/news/the-last-of-us-season-2-cast-catherine-ohara-1235895477/>.
 
 <br>
 

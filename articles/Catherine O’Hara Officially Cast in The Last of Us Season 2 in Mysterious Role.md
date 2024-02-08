@@ -11,7 +11,7 @@ permalink: 2024/02/02/james-hibberd-the-hollywood-reporter
 
 # Citation
 
-[[James Hibberd]]. "Catherine O’Hara Officially Cast in ‘The Last of Us’ Season 2 in Mysterious Role." *[[The Hollywood Reporter]]*, February 2, 2024. <https://www.hollywoodreporter.com/tv/tv-news/catherine-ohara-last-of-us-season-2-1235813621/>.
+[[Hibberd, James]]. "Catherine O’Hara Officially Cast in ‘The Last of Us’ Season 2 in Mysterious Role." *[[The Hollywood Reporter]]*, February 2, 2024. <https://www.hollywoodreporter.com/tv/tv-news/catherine-ohara-last-of-us-season-2-1235813621/>.
 
 <br>
 
