@@ -1,0 +1,56 @@
+---
+title: No Return may not live up to Factions, but The Last of Us Part 2 Remastered offers enough reason for a revisit
+author: Vikki Blake
+publication: Eurogamer
+date: 2024-01-16
+link: https://www.eurogamer.net/no-return-may-not-live-up-to-factions-but-the-last-of-us-part-2-remastered-offers-enough-reason-for-a-revisit
+permalink: 2024/01/16/no-return-may-not-live-up-to-factions-but-the-last-of-us-part-2-remastered-offers-enough-reason-for-a-revisit
+---
+
+[[2024]] / [[articles]]
+
+# Citation
+
+[[Blake, Vikki]]. "No Return may not live up to Factions, but The Last of Us Part 2 Remastered offers enough reason for a revisit." *[[Eurogamer]]*, January 16, 2024. <https://www.eurogamer.net/no-return-may-not-live-up-to-factions-but-the-last-of-us-part-2-remastered-offers-enough-reason-for-a-revisit>.
+
+<br>
+
+# No Return may not live up to Factions, but The Last of Us Part 2 Remastered offers enough reason for a revisit
+
+#### Ellie excuse, really.
+
+I don't replay games as much as I used to. I don't replay games as much as I'd _like_ to. Like most things in my life – and yours, I suspect – I always intend to carve out extra time for them, but other things always seem to get in the way. Work. Kids. Partners. Kids again. By the time I get to the end of the working week, I barely have half-hour left to tackle one of the brand new games sitting expectantly in my To-Be-Played pile, let alone indulge in a little nostalgia.
+
+The games that do get an encore, then, are particularly special. The Last of Us – both instalments – fall firmly under that category because every playthrough feels a little different depending upon how you approach it. My natural inclination, for instance, is to stealth my way through as much of the game as possible, only resorting to all out warfare when I've messed up a stealth takedown, perhaps, or chickened out of killing a dog that is neither my own furry child nor, indeed, actually real. And because I'm not a particularly confident stealther, this means it can take literal hours to get through, say, a hospital complex because I'm forever creeping around and doubling back on myself just in case there's a single bullet lying in that debris pile three and a half miles away.
+
+Replays, though? Replays let you embrace the chaos. Replays allow you to relax and indulge in the gameplay as much as the storyline, unleashing your renegade side. Like the rest of the world, I was knee-deep in lockdown when the original version dropped and, thirsty for a world beyond my office and bedroom, I booked three days off work and binged it. The first time around I was so engrossed in Ellie and Joel's tale – so caught up in their blood-soaked story of love and loss and revenge – I galloped through combat sequences, desperate to reach the next cut-scene or clue as to how this story would end. This time, I sank back and enjoyed the ride.
+
+Like its predecessor, The Last of Us Part 2's remaster is not merely an old title re-released with a shiny new coat of paint, although that may be how it seems at first blush. The Last of Us Part 2 Remastered has been enhanced to make use of the PS5's greater capabilities, including native 4K (in fidelity mode), 1440p upscaled to 4K (in performance mode), and unlocked framerate for those of you with fancy enough TVs to support VRR. It's faster, prettier, and includes improved accessibility features, boosted shadows, and makes use of the DualSense's haptic feedback and adaptive triggers, too.
+
+At the risk of being pitchforked to death, I've never really needed all those bells and whistles to enjoy a game. Graphical quality is important, sure – and rest assured, developer Naughty Dog continues to push the boundaries of what the Sony systems can do to make their games as lifelike as technology permits – but it's certainly not the be all and end all. For me, I gauge games by how they make me feel as much as how they are to play or the story they tell. _That's_ why I fell in love with The Last of Us Part 2 the first time around. How it looks was just one facet of it, along with how it sounds, how it plays, and how it made me feel as I staggered towards its brutal climax.
+
+The Last of Us Part 2 was breathtaking – in all meanings of the word – back in 2020, and picking through a post-apocalyptic Seattle does not feel tedious in 2024, either. The things that struck me as I played through the original version remain – the telegraphing of similar button prompts could do with better distinction, for example, and it still feels just a couple of hours too long – but ultimately, it's a grief-soaked, bone-chilling adventure that's as gripping now as it ever was. Like you, perhaps, I wasn't convinced that a three-year-old game – even one spanning the generation gap between PS4 and PS5 – required a remaster, but good grief, am I delighted it exists… not least because of the extra treats Naughty Dog has made available.
+
+Of all the additional extras included in the remaster, it's the Lost Levels that I jumped into first. Three playable, if incomplete, levels are offered – Jackson Party, Seattle Sewers, and Boar Hunt – and whilst brief, each one offers a curious glimpse into the minds of the development team as the game was coming together, and how decisions are made to keep – or discard – playable sequences, particularly if you elect to play with commentary on. Speaking of which, you can also play the _entirety_ of Part 2 with commentary from director Neil Druckmann, writer Halley Gross, and Ashley Johnson, Laura Bailey, Troy Baker, and Shannon Woodward, who portray Ellie, Abby, Joel, and Dina, respectively, once you've played through the story at least once.
+
+Many of The Last of Us Part 2 Remastered's new features are gated this way, actually. You can't unlock any mods until you complete the story, for instance, nor access the filter gallery (tip: the "Headache" filter ain't lying) or any of Ellie or Abby's bonus skins, including some cringey tee-shirts inspired by other games from Sony's stable. This is probably as it should be – no one should be breezing through their first Shambler encounter with infinite ammo in a Destiny t-shirt – but if you've completed the game before on PS4, you can leapfrog this requirement by importing your save and insta-unlocking all the fun stuff.
+
+The other Making Of offerings are disappointing, though. While there's a good collection of concept art to flick through, the behind-the-scenes section includes a handful of podcasts – all of which are likely already available on the podcast platform of your choice – and two trailers; one for the reveal of Part 2, and one advertising a Making The Last of Us Part 2 documentary. That's right. The Making Of section only _tells_ you about an upcoming documentary rather than embedding it right there. A missed opportunity for sure.
+
+There's also a mini-game in which you can freestyle with Joel or Ellie on guitar. Quite honestly, it's a legitimately useless feature for someone like me – there's no way to know what you're doing with this virtual guitar unless you know what you're doing with a real one – but my more musically-inclined son was able live out the "anyway, here's Wonderwall" meme on it happily.
+
+That said, the Speedrun Recap is a lovely surprise. Here, you can rerun prior chapters as quickly as possible, and the UI will keep track of your personal record, your chapter best, and even hint at where you may be able to shave off a second or two, too. You can tweak all manner of categories – difficulty level, permadeath (do you want it to apply to each chapter, each act, or the entire game?), or whether you want to speedrun the entire thing or just Ellie or Abby chapters – and whilst my slow, stealthy self shudders at the thought of racing through, it's a welcomed addition to extend The Last of Us Part 2 Remastered's replayability.
+
+The mods are wild, by the way. As well as Mirror World, which flips everything horizontally and makes even very familiar locations feel instantly and astonishingly alien, there are some delightful cheats, including infinite crafting and the ability to down every enemy with a single shot, which should make subsequent playthroughs a little less daunting. You can also pitch the audio up or down, too, just in case you've always dreamed of playing a gritty survival horror where everyone sounds like Alvin and the Chipmunks.
+
+Are these mods necessary? Of course not. They're joyous, though, which – let's face it – isn't unappreciated in a game as relentlessly grim as The Last of Us Part 2.
+
+Last but certainly not least is No Return, a roguelike survival mode that ramps up the challenge with a series of randomised encounters. No, it's unlikely to soothe the sores that still weep in the wake of Factions' cancellation, but for those looking for any excuse to take down a Clicker or take on the Scars, No Return offers the chance to revisit key locations in The Last of Us Part 2 and face a host of foes as characters you don't get to play in the main game, such as Dina and Tommy.
+
+As they each bring something different to the fight, you'll have fun experimenting with fresh combinations of traits and weaponry, as well as delighting (or commiserating) with the modifiers you unlock. Succumb to an enemy, though, and it's game over. For good, just as the title intimates.
+
+And it all feels exactly as you'd expect it to. Fast. Frantic. Brutally unfair at times, too, as it's horrifyingly easy to be overwhelmed. Each mode, grouped under the categories Assault, Holdout, Hunted, and Capture, runs pretty much as you probably envisage. Assault is a horde mode in all but name, whilst Holdout sees you and an AI companion fight to keep a location clear of infected. Hunted is essentially a survival mode where you're just fighting to stay alive, and Capture – my favourite of the bunch – sees you infiltrating locations to liberate goodies.
+
+Even if you're using the same character in the same location, each attempt will play out a little differently, depending upon the decisions you make and the rewards you receive. If you get to the end, there'll be a boss fight (man, I hate boss fights) but the further you make it, and the more upgrades and items you unlock, the better off you'll be next time as some of your spoils will carry over.
+
+Undoubtedly, those who didn't have a PS4 or perhaps couldn't stretch to the AAA price-tag the first time around will benefit most from Remastered's fresh packaging (TLOU Part 2 Remastered's standard digital edition costs a comparatively inexpensive £45), but there's plenty here to occupy returning players, too, particularly as those who still have the PS4 version can upgrade for a mere tenner. I can't pretend to see a jaw-dropping difference in the graphics – it was jaw-dropping in the first place – nor bring myself to care much about the haptic feedback, but there's no denying that even with a tale as bleak as this one, I need no excuse to justify spending a little quality time again with one of the greatest games of a generation.
