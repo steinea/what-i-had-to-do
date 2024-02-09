@@ -4,7 +4,7 @@ author: Bryn Gelbart
 publication: Deep Hell
 date: 2024-01-29
 link: https://deep-hell.com/can-you-pet-the-dog/
-permalink: 2024/01/29/can-you-pet-the-dog/
+permalink: 2024/01/29/can-you-pet-the-dog
 ---
 
 [[2024]] / [[articles]]

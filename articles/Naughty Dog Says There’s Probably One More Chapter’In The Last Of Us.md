@@ -4,7 +4,7 @@ author: Kenneth Shepard
 publication: Kotaku
 date: 2024-02-02
 link: https://kotaku.com/last-of-us-part-3-naughty-dog-grounded-2-1851221748
-permalink: 2024/02/02/kenneth-shepard-kotaku-a
+permalink: 2024/02/02/last-of-us-part-3-naughty-dog-grounded-2-1851221748
 ---
 
 [[2024]] / [[articles]]

@@ -4,7 +4,7 @@ author: Victoria Kennedy
 publication: Eurogamer
 date: 2024-01-09
 link: https://www.eurogamer.net/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo
-permalink: 2024/01/09/victoria-kennedy-eurogamer
+permalink: 2024/01/09/the-last-of-us-bill-and-frank-spin-off-series-pitched-to-hbo
 ---
 
 [[2024]] / [[articles]]

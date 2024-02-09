@@ -4,7 +4,7 @@ author: Jarrod Jones
 publication: Primetimer
 date: 2024-01-24
 link: https://www.primetimer.com/previews/the-last-of-us-season-2-more-drama-and-kaitlyn-dever-bella-ramsey-pedro-pascal
-permalink: 2024/01/24/jarrod-jones-primetimer
+permalink: 2024/01/24/the-last-of-us-season-2-more-drama-and-kaitlyn-dever-bella-ramsey-pedro-pascal
 ---
 
 [[2024]] / [[articles]]

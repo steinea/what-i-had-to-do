@@ -4,7 +4,7 @@ author: Willa Rowe
 publication: Kotaku
 date: 2024-02-02
 link: https://kotaku.com/last-of-us-season-2-hbo-cast-catherine-ohara-1851221630
-permalink: 2024/02/02/willa-rowe-kotaku
+permalink: 2024/02/02/last-of-us-season-2-hbo-cast-catherine-ohara-1851221630
 ---
 
 [[2024]] / [[articles]]

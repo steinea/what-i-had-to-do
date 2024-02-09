@@ -4,7 +4,7 @@ author: James Hibberd
 publication: The Hollywood Reporter
 date: 2024-02-02
 link: https://www.hollywoodreporter.com/tv/tv-news/catherine-ohara-last-of-us-season-2-1235813621/
-permalink: 2024/02/02/james-hibberd-the-hollywood-reporter
+permalink: 2024/02/02/catherine-ohara-last-of-us-season-2-1235813621
 ---
 
 [[2024]] / [[articles]]

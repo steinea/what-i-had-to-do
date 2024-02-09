@@ -4,7 +4,7 @@ author: John Walker
 publication: Kotaku
 date: 2024-01-25
 link: https://kotaku.com/last-of-us-season-2-cast-photo-pedro-pascal-1851196622
-permalink: 2024/01/25/john-walker-kotaku
+permalink: 2024/01/25/last-of-us-season-2-cast-photo-pedro-pascal-1851196622
 ---
 
 [[2024]] / [[articles]]

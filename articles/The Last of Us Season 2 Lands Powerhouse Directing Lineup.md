@@ -4,7 +4,7 @@ author: Adam B. Vary
 publication: Variety
 date: 2024-01-25
 link: https://variety.com/2024/tv/news/last-of-us-season-2-directors-mark-mylod-kate-herron-1235888172/
-permalink: 2024/01/25/adam-b-vary-variety
+permalink: 2024/01/25/last-of-us-season-2-directors-mark-mylod-kate-herron-1235888172
 ---
 
 [[2024]] / [[articles]]

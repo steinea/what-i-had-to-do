@@ -4,7 +4,7 @@ author: Joe Otterson
 publication: Variety
 date: 2024-02-02
 link: https://variety.com/2024/tv/news/the-last-of-us-season-2-cast-catherine-ohara-1235895477/
-permalink: 2024/02/02/joe-otterson-variety
+permalink: 2024/02/02/the-last-of-us-season-2-cast-catherine-ohara-1235895477
 ---
 
 [[2024]] / [[articles]]

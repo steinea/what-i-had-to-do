@@ -4,7 +4,7 @@ author: Luke Plunkett
 publication: Aftermath
 date: 2023-12-14
 link: https://aftermath.site/last-of-us-online-cancelled-multiplayer-standalone
-permalink: 2023/12/14/luke-plunkett-aftermath
+permalink: 2023/12/14/last-of-us-online-cancelled-multiplayer-standalone
 ---
 
 [[2023]] / [[articles]]

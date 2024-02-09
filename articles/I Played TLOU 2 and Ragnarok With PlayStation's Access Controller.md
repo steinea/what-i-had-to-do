@@ -4,7 +4,7 @@ author: Grant Stoner
 publication: Kotaku
 date: 2024-02-05
 link: https://kotaku.com/access-controller-tlou-2-ragnarok-1851221873
-permalink: 2024/02/05/grant-stoner-kotaku
+permalink: 2024/02/05/access-controller-tlou-2-ragnarok-1851221873
 ---
 
 [[2024]] / [[articles]]

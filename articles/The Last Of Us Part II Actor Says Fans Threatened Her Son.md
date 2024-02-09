@@ -4,7 +4,7 @@ author: Kenneth Shepard
 publication: Kotaku
 date: 2024-02-02
 link: https://kotaku.com/last-of-us-part-2-abby-laura-bailey-threats-grounded-1851222035
-permalink: 2024/02/02/kenneth-shepard-kotaku-b
+permalink: 2024/02/02/last-of-us-part-2-abby-laura-bailey-threats-grounded-1851222035
 ---
 
 [[2024]] / [[articles]]

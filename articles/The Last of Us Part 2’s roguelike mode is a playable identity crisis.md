@@ -4,7 +4,7 @@ author: Joshua Rivera
 publication: Polygon
 date: 2024-01-16
 link: https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode
-permalink: 2024/01/16/joshua-rivera-polygon
+permalink: 2024/01/16/the-last-of-us-part-2s-roguelike-mode
 ---
 
 [[2024]] / [[articles]]

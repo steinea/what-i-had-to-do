@@ -4,7 +4,7 @@ author: Lewis Gordon
 publication: Vulture
 date: 2024-01-19
 link: https://www.vulture.com/article/the-last-of-us-part-2-remastered-behind-the-scenes-commentary.html
-permalink: 2024/01/19/the-last-of-us-part-2-remastered-behind-the-scenes-commentary.html
+permalink: 2024/01/19/the-last-of-us-part-2-remastered-behind-the-scenes-commentary
 ---
 
 [[2024]] / [[articles]]

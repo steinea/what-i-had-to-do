@@ -4,7 +4,7 @@ author: Kenneth Shepard
 publication: Kotaku
 date: 2024-01-23
 link: https://kotaku.com/last-of-us-part-2-lev-dies-ps5-remastered-commentary-1851189217
-permalink: 2024/01/23/kenneth-shepard-kotaku
+permalink: 2024/01/23/last-of-us-part-2-lev-dies-ps5-remastered-commentary-1851189217
 ---
 
 [[2024]] / [[articles]]

@@ -4,7 +4,7 @@ author: William Hughes
 publication: A. V. Club
 date: 2024-01-25
 link: https://www.avclub.com/the-last-of-us-part-ii-adaptation-hbo-season-2-plot-1851187421
-permalink: 2024/01/25/william-hughes-a-v-club
+permalink: 2024/01/25/the-last-of-us-part-ii-adaptation-hbo-season-2-plot-1851187421
 ---
 
 [[2024]] / [[articles]]

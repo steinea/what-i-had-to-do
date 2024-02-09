@@ -4,7 +4,7 @@ author: Dais Johnston
 publication: Inverse
 date: 2024-02-05
 link: https://www.inverse.com/entertainment/the-last-of-us-season-2-catherine-o-hara
-permalink: 2024/02/05/dais-johnston-inverse
+permalink: 2024/02/05/the-last-of-us-season-2-catherine-o-hara
 ---
 
 [[2024]] / [[articles]]

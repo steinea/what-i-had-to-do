@@ -4,7 +4,7 @@ author: Kenneth Shepard
 publication: Kotaku
 date: 2024-01-25
 link: https://kotaku.com/last-of-us-part-2-grounded-making-of-documentary-1851196816
-permalink: 2024/01/25/kenneth-shepard-kotaku
+permalink: 2024/01/25/last-of-us-part-2-grounded-making-of-documentary-1851196816
 ---
 
 [[2024]] / [[articles]]

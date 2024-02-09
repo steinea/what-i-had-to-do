@@ -4,7 +4,7 @@ author: Saloni Gajjar
 publication: A. V. Club
 date: 2024-02-02
 link: https://www.avclub.com/catherine-ohara-joins-hbos-the-last-of-us-season-2-1851221586
-permalink: 2024/02/02/saloni-gajjar-a-v-club
+permalink: 2024/02/02/catherine-ohara-joins-hbos-the-last-of-us-season-2-1851221586
 ---
 
 [[2024]] / [[articles]]

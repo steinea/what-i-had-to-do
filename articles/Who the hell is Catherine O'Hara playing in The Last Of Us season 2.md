@@ -4,7 +4,7 @@ author: William Hughes
 publication: A. V. Club
 date: 2024-02-03
 link: https://www.avclub.com/catherine-ohara-the-last-of-us-season-2-1851223321
-permalink: 2024/02/03/william-hughes-a-v-club
+permalink: 2024/02/03/catherine-ohara-the-last-of-us-season-2-1851223321
 ---
 
 [[2024]] / [[articles]]

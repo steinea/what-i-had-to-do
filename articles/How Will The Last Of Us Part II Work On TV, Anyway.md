@@ -4,7 +4,7 @@ author: William Hughes
 publication: Kotaku
 date: 2024-01-26
 link: https://kotaku.com/tlou-2-last-of-us-season-2-hbo-adaptation-1851198653
-permalink: 2024/01/26/william-hughes-kotaku
+permalink: 2024/01/26/tlou-2-last-of-us-season-2-hbo-adaptation-1851198653
 ---
 
 [[2024]] / [[articles]]
