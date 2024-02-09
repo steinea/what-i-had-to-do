@@ -1,6 +1,8 @@
 ---
 title: "Creative Arts Emmys: ‘The Last of Us’ Tops Night One Ceremony"
-author: Kirsten Chuba
+author: 
+  - Kirsten Chuba
+  - Carolyn Giardina
 publication: The Hollywood Reporter
 date: 2024-01-06
 link: https://www.hollywoodreporter.com/tv/tv-news/2023-creative-arts-emmys-winners-list-night-one-1235780689/

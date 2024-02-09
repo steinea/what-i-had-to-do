@@ -6,7 +6,7 @@
 
 TABLE publication, date
 from "articles"
-where author = "Michael McWhertor"
+where contains(flat(list(author)), "Michael McWhertor")
 sort date DESC
 
 ```

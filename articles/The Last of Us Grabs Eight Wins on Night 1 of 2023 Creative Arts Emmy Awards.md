@@ -1,6 +1,8 @@
 ---
 title: The Last of Us Grabs Eight Wins on Night 1 of 2023 Creative Arts Emmy Awards
-author: Jazz Tangcay
+author: 
+  - Jazz Tangcay
+  - Cynthia Littleton
 publication: Variety
 date: 2024-01-06
 link: https://variety.com/2024/tv/awards/emmy-creative-arts-2023-winners-list-1235863331/
