@@ -23,7 +23,7 @@ A The Last of Us spin-off TV series focusing on survivors Bill and Frank has bee
 
 The news comes from Nick Offerman, who [recently won an Emmy](https://www.eurogamer.net/hbos-the-last-of-us-wins-eight-emmys-including-outstanding-guest-actor-for-nick-offermans-bill) for his portrayal of Bill in HBO's series.
 
-Speaking backstage after the awards, the actor was asked about whether viewers could see more from Bill and Frank in the future. "Oh, great question but I would have to ask somebody with a higher pay grade than myself," he replied (thanks, [[Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On ‘The Last Of Us’|Deadline]]).
+Speaking backstage after the awards, the actor was asked about whether viewers could see more from Bill and Frank in the future. "Oh, great question but I would have to ask somebody with a higher pay grade than myself," he replied (thanks, [[Nick Offerman Says Ideas Have Been Pitched For Bill & Frank Return On The Last Of Us|Deadline]]).
 
 "It certainly has been pitched. I think we pitched a whole mini-series of a prequel of their lives before they met each other," Offerman continued, before joking: "It could be a musical. We're not short on ideas. We'll just, we'll see what Craig [Mazin] and Neil [Druckmann] come up with."
 
