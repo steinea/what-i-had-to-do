@@ -2,8 +2,8 @@
 
 ```dataview
 
-LIST
-from "timeline"
+TABLE
+from "directories/timeline"
 sort date DESC
 
 ```
