@@ -1,4 +1,4 @@
-# Articles
+# 📰 Articles
 
 ```dataview
 

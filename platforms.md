@@ -1,10 +1,10 @@
-# ✏️ Authors
+# Platforms
 
 ```dataview
 
 TABLE WITHOUT ID
 file.link as "Name"
-from "directories/authors"
+from "directories/platforms"
 sort file.name ASC
 
 ```

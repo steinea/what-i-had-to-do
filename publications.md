@@ -1,9 +1,10 @@
-# Publications
+#  Publications
 
 ```dataview
 
-LIST
-from "publications"
+TABLE WITHOUT ID
+file.link as "Name"
+from "directories/publications"
 sort file.name ASC
 
 ```
