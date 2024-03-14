@@ -11,7 +11,7 @@ permalink: 2024/02/28/the-psychgeist-of-pop-culture-the-last-of-us
 
 # Citation
 
-Domasin, Adrienne. "The Psychgeist of Pop Culture: The Last of Us." Call for Papers, February 28, 2024. <https://docs.google.com/document/d/1CaAYl9RXiEb5k7VxHEh3xcysYslUQbNfn-wj9o0wft8/edit>.
+Domasin, Adrienne. "The Psychgeist of Pop Culture: The Last of Us." CFP, February 28, 2024. https://docs.google.com/document/d/1CaAYl9RXiEb5k7VxHEh3xcysYslUQbNfn-wj9o0wft8/edit.
 
 <br>
 
