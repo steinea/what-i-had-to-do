@@ -7,14 +7,12 @@ link:
 permalink:
 ---
 
-YYYY / [[articles]]
+YYYY • [[articles]]
 
 # Citation
 
-AUTHOR. "." *PUBLICATION*, MONTH DD, YYYY. <>.
+AUTHOR. "TITLE." *PUBLICATION*, DATE. URL.
 
 <br>
 
-# Title
-
-#### Subtitle
+# Article
