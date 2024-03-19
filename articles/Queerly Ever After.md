@@ -1,0 +1,38 @@
+---
+title: Queerly Ever After
+author: Jeremy Signor
+publication: Videodame
+date: 2022-03-10
+link: https://videoda.me/queerly-ever-after-e7a25eb4938e
+permalink: 2022/03/10/jeremy-signor-queerly-ever-after
+---
+
+[[2022]] • [[articles]]
+
+# Citation
+
+Signor, Jeremy. "Queerly Ever After." *Videodame*, March 10, 2022. https://videoda.me/queerly-ever-after-e7a25eb4938e.
+
+<br>
+
+# Article
+
+Queer pain is the de facto way to give queer characters depth in videogames. When we’re not given paper thin stereotypes to work with, our backstories are built on tragedy. After all, that’s what they’re often built on in real life in a world that still is actively hostile to us. Why not draw on that to create a compelling story for queer characters that’s relatable? This is the question devs often default to, and what this misses is the fact that we can feel joy. We can rise above all the garbage the world throws at us to find moments of bliss, love, and even healing. That last one is important and the reason that it’s still okay to explore tragedy in queer life, the ingredient that’s sadly missing from so many unfortunate queer stories. Tragedy is inevitable in our lives, but it’s important to show that it isn’t always the end of our stories.
+
+Take _The Last of Us: Left Behind_ as an example of the many stories that trade in queer pain to create drama and deeper characterization for a queer figure in the game’s world. A DLC prequel that shows life before the events of _The Last of Us_ proper, it follows series co-protagonist Ellie as she hangs out alone with her best friend Riley in an abandoned shopping mall in the middle of a post-apocalyptic world. They make the most of the ruined shopping center and have fun with what’s left of the building before sharing a kiss and declaring their desire to stay together. Soon after, zombies find them and attack, leaving both of them bitten and primed to turn into zombies themselves soon after. One of them does. The other lives on.
+
+You can see some queer joy in the story leading up to the tragic ending. But what it’s really there for is to provide an extra gut punch for when Ellie’s first love is taken away from her. In other words, queer joy isn’t allowed to exist without it adding to the inevitable queer tragedy — the real payoff. And while Ellie lives to have other stories, Ellie and Riley’s story ends here. _Left Behind_ isn’t unique in this regard, either. While it’s a well told story that ends badly for its queer characters, it’s a trajectory that’s well worn at this point. “Bury your queers” is a trope description for a reason.
+
+The answer is, of course, putting into the world more stories of queer joy, but we shouldn’t throw the baby out with the bathwater here. Tragedy is still a powerful archetype that speaks to real struggles we as queer people face. The key is in the aftercare. Because we see so many stories that immerse themselves in queer pain, what’s needed is to show that there’s an aftermath to tragedy, that life goes on. It doesn’t even necessarily mean a happy ending is a must, just that it shows that the way forward includes some form of healing.
+
+Visual novel _The House in Fata Morgana_ shows just how deep the tragedy can go as long as the tragedy isn’t the end of the story. While the game tells the stories of several cursed individuals who encounter the titular house, one of the central stories is the one about an intersex man named Michel. Isolated to the house alone after his body developed into a more masculine shape to his family’s horror, his exile came after being locked in his room for months at a time and forced to eat his food like an animal. Soon after, his father coerced sex from one of the household maids, Giselle, and once she started refusing, she was sent away to the same house to get her out of the way.
+
+Though they couldn’t get along at first, they eventually started a romance built on relating to how they each felt that they were broken people in some way, how they were discarded because of their circumstances. But no sooner did they find their way to each other’s hearts than Michel’s family sent soldiers to kill him, led by none other than his brother. Giselle, meanwhile, is coerced into becoming an immortal maid for a witch spirit who inhabits the house, forced to help her curse certain individuals who wronged her in their various reincarnations forevermore.
+
+_The House in Fata Morgana_ is a uniquely cruel game when it wants to be, and indeed, its central queer character is certainly put through the wringer throughout his life with little happiness to be found. The one bright spot, Giselle, the woman who loved him no matter what secret he hides, was torn away from him violently by people fearful of anything queer. But these sad circumstances aren’t the end of the story. What happens next is healing and restoration in the form of Michel soothing the witch spirit’s soul and being allowed to reincarnate together. They find each other again in the next life and even begin building a life together. Not only was Michel allowed to heal from his physical and emotional scars caused by a world that didn’t understand him, but he was also given a second chance at happiness, to live as the person he is with the person who sees him for who he really is. This is an ending queer people don’t get to see a lot in games.
+
+Stories of queer healing don’t even need to portray the trauma first on screen. _Ikenfell_ is a good example of this, as it’s an incredibly queer game that makes sure to buck the trend of burying your gays and never lingers on their trauma. In the backstory for the game, Aeldra, headmistress of the titular magical school, fought a destructive force with her friends, all of whom died in the battle. This trauma caused a scar on her soul that constantly leaked pure grief, which she tried to manage by releasing it into a cauldron. This grief would ultimately overcome her, causing her to repeat certain actions that would cause a great cataclysm in the magical world. The key to stopping her is in helping her heal from this great wound on her heart and move forward into the future.
+
+This story involves death and grief, but the former is very much part of a different story that already happened. _Ikenfell_ is about moving on from the wounds of the past towards a better future. And it’s not just Aeldra who learns to move on. Main character Maritte learns to move past her pain regarding her sister, and party member Pertisia learns to move past her negative feelings. The game features an epilogue that shows what each party member is up to after the events of the game, but more importantly, it establishes that the end goal of healing is movement into a future that wouldn’t be possible without that process. Queer joy, love, and living are here, yes, but the theme of moving on from queer pain is a powerful one given the usual narratives that queer people have to look towards.
+
+The problem with queer tragedy is that it beats us down, often saddling queer characters with no future, or at least no future without becoming heavily scarred. And while it’s not quite correct to say these stories shouldn’t exist, the lack of others that show a way forward send a clear message about what life as a queer person is like. While it’s unrealistic to advocate for no more queer tragedies to be written, more queer healing stories should stand hand-in-hand with them, tipping the scales towards a future where we can overcome and be happy.

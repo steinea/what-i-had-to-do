@@ -7,7 +7,7 @@ link: https://docs.google.com/document/d/1CaAYl9RXiEb5k7VxHEh3xcysYslUQbNfn-wj9o
 permalink: 2024/02/28/the-psychgeist-of-pop-culture-the-last-of-us
 ---
 
-[[2024]] • [[articles]]
+[[2024]]
 
 # Citation
 
